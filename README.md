@@ -14,6 +14,11 @@ what's change ?  well, i cleaned the entire hospital. no more debris on the grou
 		and RequestIpl("rc12b_hospitalinterior")    in your IPL script      (ex:https://forum.fivem.net/t/release-v2-fix-holes-in-the-map-up-to-the-doomsday-heist/25240/124)
 - enjoy
 
+[optional]
+
+add doors to the hospital.
+https://github.com/jobscraft/PillboxHospital-doors
+
 
 # know issue
 
