@@ -1,4 +1,4 @@
-# 1.1 Update !
+# 1.2 Update !
 
 you need to detele the previous files and download the new version.
 
