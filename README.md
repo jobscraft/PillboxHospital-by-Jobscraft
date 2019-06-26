@@ -21,8 +21,7 @@ what's change ?  well, i cleaned the entire hospital. no more debris on the grou
 
 - Put the script in your resource directory
 - start the resource in server.cfg
-- put this 2 lines 		RemoveIpl("rc12b_default")
-		and RequestIpl("rc12b_hospitalinterior")    in your IPL script      (ex:https://forum.fivem.net/t/release-v2-fix-holes-in-the-map-up-to-the-doomsday-heist/25240/124)
+- put lines in the ipl.lua into your IPL script      (ex:https://forum.fivem.net/t/release-v2-fix-holes-in-the-map-up-to-the-doomsday-heist/25240/124) or if it's not work, go into the __resource.lua and uncomment this line --client_script "ipl.lua", after that load the script after all your ipl loader (you can start it a the end of your cfg)
 - enjoy
 
 [optional]
